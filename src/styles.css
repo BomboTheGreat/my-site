@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color:rgba(49, 49, 48, 0.877);
+    color: rgb(252, 252, 252);
+    font-family: 'Acme', sans-serif;
+    line-height: 24px; 
+    letter-spacing:1px;
+    margin: 0;
+}

@@ -1,0 +1,31 @@
+main{
+    background-color: rgb(230, 230, 230)
+}
+a{
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-left:solid rgb(151, 152, 201) 10px;
+}
+span{
+    margin-right: 600px;
+    margin-left: 30px;
+}
+a:hover
+{
+    color: black;
+    background-color: lightblue;
+}
+.top{
+    align-items: left;   
+    display: flex;
+    justify-content: left;
+    margin-bottom: 0px;
+    color: dimgray;
+    padding: 8px;
+    padding-left: 10px;
+}
